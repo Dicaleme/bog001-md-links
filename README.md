@@ -3,6 +3,8 @@
 Instalar package npm read and validate links
 ![npm](https://user-images.githubusercontent.com/65943524/100909414-b28b1780-349a-11eb-941f-60ed9df52416.JPG)
 
+![npm2](https://user-images.githubusercontent.com/65943524/100916449-bf603900-34a3-11eb-8430-24a3243bc7de.JPG)
+
 ## --stats
 ![stats](https://user-images.githubusercontent.com/65943524/100913542-eb79bb00-349f-11eb-86e0-6263ccf47676.JPG)
 ![stats2](https://user-images.githubusercontent.com/65943524/100913552-ef0d4200-349f-11eb-9b9b-76dee9b6ebba.JPG)
