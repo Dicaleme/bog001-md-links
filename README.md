@@ -11,7 +11,8 @@ Instalar package npm read and validate links
 ![validate](https://user-images.githubusercontent.com/65943524/100913565-f16f9c00-349f-11eb-9f4a-951f27e72dd7.JPG)
 
 ## --stats--validate
-![statsvalidate](https://user-images.githubusercontent.com/65943524/100913573-f3395f80-349f-11eb-8857-6230b58b18d7.JPG)
+![statsvalidate](https://user-images.githubusercontent.com/65943524/100916257-845e0580-34a3-11eb-8d2d-e40a19eaf515.JPG)
+![statsvalidate2](https://user-images.githubusercontent.com/65943524/100916263-86c05f80-34a3-11eb-9e16-fb143b976402.JPG)
 
 
 
