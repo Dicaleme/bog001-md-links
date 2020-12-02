@@ -64,7 +64,6 @@ const showStats = () => {
     let uniqueLinks = 0;
     for (let i = 0; i < allLinks.length; i++) {
       fetch(allLinks[i].link).then(response  => {
-        //await
         if (response.status == 200) {
           uniqueLinks++;
           console.log(
@@ -101,7 +100,6 @@ const validateLinks = ()  => {
       } else {
         console.log('error', response.status);
       }
-      //se muestran los resultados de los links
       if (brokenLinks + uniqueLinks === allLinks.length) {
         console.log(`*******************************************************************\n`.america);
         console.log(` File: ${mdExtension}`.cyan);
@@ -137,6 +135,7 @@ const commanderModule = {
   mdLinks, getLinks, validateAndStats, menuOptions, showStats, validateLinks
 };
 
+//exports module to test code
 module.exports = {
   commanderModule
 };
