@@ -4,13 +4,15 @@ Instalar package npm read and validate links
 ![npm](https://user-images.githubusercontent.com/65943524/100909414-b28b1780-349a-11eb-941f-60ed9df52416.JPG)
 
 ## Stats
-![stats](https://user-images.githubusercontent.com/65943524/100909244-76f04d80-349a-11eb-9cd6-a46e5dc45f44.JPG)
+![stats](https://user-images.githubusercontent.com/65943524/100913542-eb79bb00-349f-11eb-86e0-6263ccf47676.JPG)
+![stats2](https://user-images.githubusercontent.com/65943524/100913552-ef0d4200-349f-11eb-9b9b-76dee9b6ebba.JPG)
 
 ## Validate
-![validate](https://user-images.githubusercontent.com/65943524/100909261-79eb3e00-349a-11eb-8cbd-27704e31c975.JPG)
+![validate](https://user-images.githubusercontent.com/65943524/100913565-f16f9c00-349f-11eb-9f4a-951f27e72dd7.JPG)
 
 ## Broken and Unique links
-![brokenlinks](https://user-images.githubusercontent.com/65943524/100909279-7eaff200-349a-11eb-911a-5344d0745097.JPG)
+![statsvalidate](https://user-images.githubusercontent.com/65943524/100913573-f3395f80-349f-11eb-8857-6230b58b18d7.JPG)
+
 
 
 ## Índice
